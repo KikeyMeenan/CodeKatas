@@ -1,0 +1,13 @@
+C:\Users\keenanm\Desktop\codekata.com\02_KarateChop_NetCore\02_KarateChop_NetCore\bin\Debug\netcoreapp3.1\02_KarateChop_NetCore.exe
+C:\Users\keenanm\Desktop\codekata.com\02_KarateChop_NetCore\02_KarateChop_NetCore\bin\Debug\netcoreapp3.1\02_KarateChop_NetCore.deps.json
+C:\Users\keenanm\Desktop\codekata.com\02_KarateChop_NetCore\02_KarateChop_NetCore\bin\Debug\netcoreapp3.1\02_KarateChop_NetCore.runtimeconfig.json
+C:\Users\keenanm\Desktop\codekata.com\02_KarateChop_NetCore\02_KarateChop_NetCore\bin\Debug\netcoreapp3.1\02_KarateChop_NetCore.runtimeconfig.dev.json
+C:\Users\keenanm\Desktop\codekata.com\02_KarateChop_NetCore\02_KarateChop_NetCore\bin\Debug\netcoreapp3.1\02_KarateChop_NetCore.dll
+C:\Users\keenanm\Desktop\codekata.com\02_KarateChop_NetCore\02_KarateChop_NetCore\bin\Debug\netcoreapp3.1\02_KarateChop_NetCore.pdb
+C:\Users\keenanm\Desktop\codekata.com\02_KarateChop_NetCore\02_KarateChop_NetCore\obj\Debug\netcoreapp3.1\02_KarateChop_NetCore.csprojAssemblyReference.cache
+C:\Users\keenanm\Desktop\codekata.com\02_KarateChop_NetCore\02_KarateChop_NetCore\obj\Debug\netcoreapp3.1\02_KarateChop_NetCore.AssemblyInfoInputs.cache
+C:\Users\keenanm\Desktop\codekata.com\02_KarateChop_NetCore\02_KarateChop_NetCore\obj\Debug\netcoreapp3.1\02_KarateChop_NetCore.AssemblyInfo.cs
+C:\Users\keenanm\Desktop\codekata.com\02_KarateChop_NetCore\02_KarateChop_NetCore\obj\Debug\netcoreapp3.1\02_KarateChop_NetCore.csproj.CoreCompileInputs.cache
+C:\Users\keenanm\Desktop\codekata.com\02_KarateChop_NetCore\02_KarateChop_NetCore\obj\Debug\netcoreapp3.1\02_KarateChop_NetCore.dll
+C:\Users\keenanm\Desktop\codekata.com\02_KarateChop_NetCore\02_KarateChop_NetCore\obj\Debug\netcoreapp3.1\02_KarateChop_NetCore.pdb
+C:\Users\keenanm\Desktop\codekata.com\02_KarateChop_NetCore\02_KarateChop_NetCore\obj\Debug\netcoreapp3.1\02_KarateChop_NetCore.genruntimeconfig.cache

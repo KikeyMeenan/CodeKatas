@@ -1,0 +1,15 @@
+C:\Users\keenanm\Desktop\codekata.com\04_DataMunging_NetCore\04_DataMunging_NetCore\bin\Debug\netcoreapp3.1\04_DataMunging_NetCore.exe
+C:\Users\keenanm\Desktop\codekata.com\04_DataMunging_NetCore\04_DataMunging_NetCore\bin\Debug\netcoreapp3.1\weather.dat
+C:\Users\keenanm\Desktop\codekata.com\04_DataMunging_NetCore\04_DataMunging_NetCore\bin\Debug\netcoreapp3.1\04_DataMunging_NetCore.deps.json
+C:\Users\keenanm\Desktop\codekata.com\04_DataMunging_NetCore\04_DataMunging_NetCore\bin\Debug\netcoreapp3.1\04_DataMunging_NetCore.runtimeconfig.json
+C:\Users\keenanm\Desktop\codekata.com\04_DataMunging_NetCore\04_DataMunging_NetCore\bin\Debug\netcoreapp3.1\04_DataMunging_NetCore.runtimeconfig.dev.json
+C:\Users\keenanm\Desktop\codekata.com\04_DataMunging_NetCore\04_DataMunging_NetCore\bin\Debug\netcoreapp3.1\04_DataMunging_NetCore.dll
+C:\Users\keenanm\Desktop\codekata.com\04_DataMunging_NetCore\04_DataMunging_NetCore\bin\Debug\netcoreapp3.1\04_DataMunging_NetCore.pdb
+C:\Users\keenanm\Desktop\codekata.com\04_DataMunging_NetCore\04_DataMunging_NetCore\obj\Debug\netcoreapp3.1\04_DataMunging_NetCore.csprojAssemblyReference.cache
+C:\Users\keenanm\Desktop\codekata.com\04_DataMunging_NetCore\04_DataMunging_NetCore\obj\Debug\netcoreapp3.1\04_DataMunging_NetCore.AssemblyInfoInputs.cache
+C:\Users\keenanm\Desktop\codekata.com\04_DataMunging_NetCore\04_DataMunging_NetCore\obj\Debug\netcoreapp3.1\04_DataMunging_NetCore.AssemblyInfo.cs
+C:\Users\keenanm\Desktop\codekata.com\04_DataMunging_NetCore\04_DataMunging_NetCore\obj\Debug\netcoreapp3.1\04_DataMunging_NetCore.csproj.CoreCompileInputs.cache
+C:\Users\keenanm\Desktop\codekata.com\04_DataMunging_NetCore\04_DataMunging_NetCore\obj\Debug\netcoreapp3.1\04_DataMunging_NetCore.dll
+C:\Users\keenanm\Desktop\codekata.com\04_DataMunging_NetCore\04_DataMunging_NetCore\obj\Debug\netcoreapp3.1\04_DataMunging_NetCore.pdb
+C:\Users\keenanm\Desktop\codekata.com\04_DataMunging_NetCore\04_DataMunging_NetCore\obj\Debug\netcoreapp3.1\04_DataMunging_NetCore.genruntimeconfig.cache
+C:\Users\keenanm\Desktop\codekata.com\04_DataMunging_NetCore\04_DataMunging_NetCore\bin\Debug\netcoreapp3.1\football.dat
