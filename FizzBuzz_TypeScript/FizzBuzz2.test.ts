@@ -1,10 +1,9 @@
-import { FizzBuzz } from './FizzBuzz';
+import { FizzBuzz, FizzBuzzRule } from './FizzBuzz2';
 
-describe('fizzbuzz', () => {
-    const rules: ((input: number) => string)[] = [
-        (input: number) => { if (input % 3 === 0 && input % 5 === 0) return "fizzbuzz"; return ""; },
-        (input: number) => { if (input % 3 === 0) return "fizz"; return ""; },
-        (input: number) => { if (input % 5 === 0) return "buzz"; return ""; }
+describe('fizzbuzz 2', () => {
+    const rules: FizzBuzzRule[] = [
+        {Number: 3, Output: "fizz"},
+        {Number: 5, Output: "buzz"}
     ]
 
     const fizzBuzz = new FizzBuzz(rules);

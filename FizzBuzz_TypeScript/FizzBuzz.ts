@@ -1,14 +1,16 @@
 export class FizzBuzz {
-    Tests: ((input: number) => string)[];
+    Rules: ((input: number) => string)[]
 
-    constructor(tests: ((input: number) => string)[]) {
-        this.Tests = tests;
+    constructor(rules: ((input: number) => string)[]) {
+        this.Rules = rules
     }
 
-    Perform(input: number): string {
-        for (let test of this.Tests) {
-            let testResult = test(input);
-            if (testResult != "") return testResult;
+    Perform(input: number) : string {
+        for(let rule of this.Rules){
+            var result = rule(input);
+            if(result != ""){
+                return result;
+            }
         }
         return "";
     }
